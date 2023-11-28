@@ -1,4 +1,4 @@
-/* 7)
+/* 
 Purpose: Find the least expensive product from each category and print the table with category id, name, product name, and price of the product.
 Inputs: None
 Outputs:
