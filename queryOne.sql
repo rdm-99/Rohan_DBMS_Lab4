@@ -1,4 +1,4 @@
-/* 1)
+/* 
 Purpose: Display the total number of customers based on gender who have placed individual orders of worth at least Rs.3000.
 Inputs: None
 Outputs:
